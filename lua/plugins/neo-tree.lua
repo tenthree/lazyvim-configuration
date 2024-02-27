@@ -6,5 +6,8 @@ return {
         visible = true,
       },
     },
+    window = {
+      position = "right",
+    },
   },
 }
