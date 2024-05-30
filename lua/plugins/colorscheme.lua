@@ -3,6 +3,7 @@ return {
   -- { "Mofiqul/dracula.nvim" },
   { "Mofiqul/dracula.nvim", opts = { transparent_bg = true } },
   { "folke/tokyonight.nvim", opts = { style = "storm", transparent = true } },
+  { "rebelot/kanagawa.nvim", opts = { transparent = true } },
   { "ellisonleao/gruvbox.nvim", priority = 1000, config = true, opts = { transparent_mode = true } },
   {
     "sainnhe/gruvbox-material",
@@ -20,6 +21,7 @@ return {
       -- colorscheme = "dracula",
       -- colorscheme = "tokyonight",
       -- colorscheme = "gruvbox",
+      -- colorscheme = "kanagawa",
       colorscheme = "gruvbox-material",
     },
   },
